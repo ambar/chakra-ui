@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.0
+
+### Minor Changes
+
+- [#5736](https://github.com/chakra-ui/chakra-ui/pull/5736)
+  [`a7be72918`](https://github.com/chakra-ui/chakra-ui/commit/a7be72918f1e74ce20eb31544433e4321caf5c78)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Add support for
+  passing `inputProps` to underlying input element
+
 ## 1.6.8
 
 ### Patch Changes

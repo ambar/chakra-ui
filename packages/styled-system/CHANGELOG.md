@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.18.2
+
+### Patch Changes
+
+- [#5702](https://github.com/chakra-ui/chakra-ui/pull/5702)
+  [`dc2c578f6`](https://github.com/chakra-ui/chakra-ui/commit/dc2c578f6b9686499911fa77d6b61dd0ced077ea)
+  Thanks [@ardnahcivar](https://github.com/ardnahcivar)! - Added `number` type
+  for text underline offset of text decoration props
+
 ## 1.18.1
 
 ### Patch Changes

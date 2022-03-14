@@ -1,6 +1,6 @@
 {
   "name": "@chakra-ui/checkbox",
-  "version": "1.6.8",
+  "version": "1.7.0",
   "description": "A React Checkbox component for use in forms",
   "keywords": [
     "react",
@@ -45,7 +45,7 @@
     "@chakra-ui/visually-hidden": "1.1.6"
   },
   "devDependencies": {
-    "@chakra-ui/system": "1.11.2",
+    "@chakra-ui/system": "1.11.3",
     "framer-motion": "^4.0.0",
     "react": "^17.0.1"
   },
