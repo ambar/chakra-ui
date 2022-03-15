@@ -22,5 +22,5 @@ export function useBoolean(initialState: InitialState = false) {
     setValue((prev) => !prev)
   }, [])
 
-  return [value, { on, off, toggle }] as const
+  return [value, useRef({ on, off, toggle }).current] as const
 }
